@@ -1,2 +1,3 @@
 # AIDME
-AIDME : AI driven Disaster Management Ecosystem
+AIDME : AI driven Disaster Management Ecosystem 
+(TEAM 9)
