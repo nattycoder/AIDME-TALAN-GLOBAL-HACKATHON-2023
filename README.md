@@ -81,4 +81,6 @@ Education and Training: Provide training to emergency response teams and authori
 effectively use the platform and interpret the data for informed decision-making.
 Continuous Improvement: Establish a process for continuous improvement by gathering feedback
 from users and stakeholders to enhance the system's effectiveness and responsiveness
+ 
+ 
  canva presentation link :https://www.canva.com/design/DAFwAcUi7wQ/sLvbI33hEyPDUnL0ry_Jhg/edit?utm_content=DAFwAcUi7wQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
