@@ -75,7 +75,7 @@ Incorporate features such as two-way communication for user feedback.
 Plan for scalability to cover larger geographic areas and accommodate increased user demand during disasters.
 
 - #### Security and Privacy: 
-Implement robust security measures to protect sensitive data and ensure compliance with privacy regulations.
+Implement roGuidings to protect sensitive data and ensure compliance with privacy regulations.
 
 - #### Collaboration:
 Collaborate with local government agencies, emergency services, and disaster relief organizations to integrate the system into their response workflows.
@@ -86,5 +86,5 @@ Provide training to emergency response teams and authorities on how to effective
 - #### Continuous Improvement:
 Establish a process for continuous improvement by gathering feedback from users and stakeholders to enhance the system's effectiveness and responsiveness
  
- 
- canva presentation link :https://www.canva.com/design/DAFwAcUi7wQ/sLvbI33hEyPDUnL0ry_Jhg/edit?utm_content=DAFwAcUi7wQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+### CANVA PRESENTATION LINK
+https://www.canva.com/design/DAFwAcUi7wQ/sLvbI33hEyPDUnL0ry_Jhg/edit?utm_content=DAFwAcUi7wQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
